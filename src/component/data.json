@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "title": "Article 73",
+      "views": "2.9k",
+      "comments": 210,
+      "status": "Published"
+    },
+    {
+      "id": 2,
+      "title": "Article 72",
+      "views": "1.5k",
+      "comments": 360,
+      "status": "Published"
+    },
+    {
+      "id": 3,
+      "title": "Article 71",
+      "views": "1.1k",
+      "comments": 150,
+      "status": "Published"
+    },
+    {
+      "id": 4,
+      "title": "Article 70",
+      "views": "1.2k",
+      "comments": 420,
+      "status": "Published"
+    },
+    {
+      "id": 5,
+      "title": "Article 69",
+      "views": "2.6k",
+      "comments": 190,
+      "status": "Published"
+    },
+    {
+      "id": 6,
+      "title": "Article 68",
+      "views": "1.9k",
+      "comments": 390,
+      "status": "Published"
+    },
+    {
+      "id": 7,
+      "title": "Article 67",
+      "views": "1.2k",
+      "comments": 580,
+      "status": "Published"
+    },
+    {
+      "id": 8,
+      "title": "Article 66",
+      "views": "3.6k",
+      "comments": 160,
+      "status": "Published"
+    },
+    {
+      "id": 9,
+      "title": "Article 65",
+      "views": "1.3k",
+      "comments": 220,
+      "status": "Published"
+    }
+  ]
